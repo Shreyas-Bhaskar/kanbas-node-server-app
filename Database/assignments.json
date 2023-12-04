@@ -1,11 +1,138 @@
 [
-    { "_id": "A101", "title": "Propulsion Assignment", "course": "RS101" },
-    { "_id": "A102", "title": "Combustion Analysis", "course": "RS101" },
-    { "_id": "A103", "title": "Nozzle Design Project", "course": "RS101" },
-    { "_id": "A201", "title": "Aerodynamics Quiz", "course": "RS102" },
-    { "_id": "A202", "title": "Flow Analysis", "course": "RS102" },
-    { "_id": "A203", "title": "Heating Analysis", "course": "RS102" },
-    { "_id": "A301", "title": "Structural Design Task", "course": "RS103" },
-    { "_id": "A302", "title": "Orbital Calculations", "course": "RS103" },
-    { "_id": "A303", "title": "Systems Engineering Exam", "course": "RS103" }
-  ]
+  {
+      "_id": "A101",
+      "title": "Propulsion Assignment",
+      "course": "RS101",
+      "weekinfo": "Week 1 - Introduction to Propulsion - Week starting on Monday September 5th",
+      "due": "2023-09-18",
+      "available": "2023-09-04",
+      "until": "2023-09-25"
+  },
+  {
+      "_id": "A102",
+      "title": "Combustion Analysis",
+      "course": "RS101",
+      "weekinfo": "Week 2 - Combustion Analysis - Week starting on Monday September 12th",
+      "due": "2023-09-25",
+      "available": "2023-09-11",
+      "until": "2023-10-02"
+  },
+  {
+      "_id": "A103",
+      "title": "Nozzle Design Project",
+      "course": "RS101",
+      "weekinfo": "Week 3 - Nozzle Design - Week starting on Monday September 19th",
+      "due": "2023-10-02",
+      "available": "2023-09-18",
+      "until": "2023-10-09"
+  },
+  {
+      "_id": "A201",
+      "title": "Aerodynamics Quiz",
+      "course": "RS102",
+      "weekinfo": "Week 4 - Introduction to Aerodynamics - Week starting on Monday September 26th",
+      "due": "2023-10-09",
+      "available": "2023-09-25",
+      "until": "2023-10-16"
+  },
+  {
+      "_id": "A202",
+      "title": "Flow Analysis",
+      "course": "RS102",
+      "weekinfo": "Week 5 - Flow Analysis - Week starting on Monday October 3rd",
+      "due": "2023-10-16",
+      "available": "2023-10-02",
+      "until": "2023-10-23"
+  },
+  {
+      "_id": "A203",
+      "title": "Heating Analysis",
+      "course": "RS102",
+      "weekinfo": "Week 6 - Heating Analysis - Week starting on Monday October 10th",
+      "due": "2023-10-23",
+      "available": "2023-10-09",
+      "until": "2023-10-30"
+  },
+  {
+      "_id": "A301",
+      "title": "Structural Design Task",
+      "course": "RS103",
+      "weekinfo": "Week 7 - Introduction to Structural Design - Week starting on Monday October 17th",
+      "due": "2023-10-30",
+      "available": "2023-10-16",
+      "until": "2023-11-06"
+  },
+  {
+      "_id": "A302",
+      "title": "Orbital Calculations",
+      "course": "RS103",
+      "weekinfo": "Week 8 - Orbital Calculations - Week starting on Monday October 24th",
+      "due": "2023-11-06",
+      "available": "2023-10-23",
+      "until": "2023-11-13"
+  },
+  {
+      "_id": "A303",
+      "title": "Systems Engineering Exam",
+      "course": "RS103",
+      "weekinfo": "Week 9 - Systems Engineering - Week starting on Monday October 31st",
+      "due": "2023-11-13",
+      "available": "2023-10-30",
+      "until": "2023-11-20"
+  },
+  {
+      "_id": "A401",
+      "title": "Structural Design Task",
+      "course": "RS104",
+      "weekinfo": "Week 10 - Introduction to Structural Design - Week starting on Monday November 7th",
+      "due": "2023-11-20",
+      "available": "2023-11-06",
+      "until": "2023-11-27"
+  },
+  {
+      "_id": "A402",
+      "title": "Orbital Calculations",
+      "course": "RS104",
+      "weekinfo": "Week 11 - Orbital Calculations - Week starting on Monday November 14th",
+      "due": "2023-11-27",
+      "available": "2023-11-13",
+      "until": "2023-12-04"
+  },
+  {
+      "_id": "A403",
+      "title": "Systems Engineering Exam",
+      "course": "RS104",
+      "weekinfo": "Week 12 - Systems Engineering - Week starting on Monday November 21st",
+      "due": "2023-12-04",
+      "available": "2023-11-20",
+      "until": "2023-12-11"
+  },
+  {
+      "_id": "A501",
+      "title": "Structural Design Task",
+      "course": "RS105",
+      "weekinfo": "Week 13 - Introduction to Structural Design - Week starting on Monday November 28th",
+      "due": "2023-12-11",
+      "available": "2023-11-27",
+      "until": "2023-12-18"
+  },
+  {
+      "_id": "A502",
+      "title": "Orbital Calculations",
+      "course": "RS105",
+      "weekinfo": "Week 14 - Orbital Calculations - Week starting on Monday December 5th",
+      "due": "2023-12-18",
+      "available": "2023-12-04",
+      "until": "2023-12-25"
+  },
+  {
+      "_id": "A503",
+      "title": "Systems Engineering Exam",
+      "course": "RS105",
+      "weekinfo": "Week 15 - Systems Engineering - Week starting on Monday December 12th",
+      "due": "2023-12-25",
+      "available": "2023-12-11",
+      "until": "2024-01-01"
+  }
+  
+]

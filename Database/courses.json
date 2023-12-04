@@ -1,23 +1,21 @@
 [
-  {
-    "_id": "RS101",
-    "name": "Rocket Propulsion",
-    "number": "RS4550",
-    "startDate": "2023-01-10",
-    "endDate": "2023-05-15"
+  { "_id": "RS101",
+  "name": "CS 5010 Program Design Paradigm Boston On-Ground", "number": "CS5010.MERGED.202410", "startDate": "2023-09-06",
+  "endDate": "2023-12-10"
   },
-  {
-    "_id": "RS102",
-    "name": "Aerodynamics",
-    "number": "RS4560",
-    "startDate": "2023-01-10",
-    "endDate": "2023-05-15"
+  { "_id": "RS102",
+  "name": "CS5610 11550 Web Development SEC 01 Fall 2023 [VTL-2-OL]", "number": "CS5610.11550.202410", "startDate": "2023-09-06",
+  "endDate": "2023-12-10"
   },
-  {
-    "_id": "RS103",
-    "name": "Spacecraft Design",
-    "number": "RS4570",
-    "startDate": "2023-01-10",
-    "endDate": "2023-05-15"
+  { "_id": "RS103",
+  "name": "F-1 Orientation U.S Fall 2023", "number": "F-1.Orientation.U.S.Fall.2023", "startDate": "2023-09-06", "endDate": "2023-12-10"
+  },
+  { "_id": "RS104",
+  "name": "Khoury College's Master's Orientation (Fall 2023)", "number": "Khoury.MastersOrientation.Fall2023", 
+  "startDate": "2023-09-06", "endDate": "2023-12-10"
+  },
+  { "_id": "RS105",
+  "name": "Khoury Graduate - Career Prep & Co-op Processes", "number": "Khoury.Graduate.Career.Prep.Co-op.Processes", 
+  "startDate": "2023-09-06", "endDate": "2023-12-10"
   }
 ]
