@@ -3,8 +3,8 @@ import Hello from "./hello.js"
 import Lab5 from './lab5.js';
 import cors from "cors";
 import "dotenv/config";
-import CourseRoutes from "./courses/routes.js";
-import ModuleRoutes from "./modules/routes.js";
+//import CourseRoutes from "./Courses/routes.js"
+//import ModuleRoutes from "./modules/routes.js";
 import mongoose from "mongoose";
 import UserRoutes from './users/routes.js';
 import session from "express-session";
@@ -38,8 +38,7 @@ app.use(session(sessionOptions));
 
 
 UserRoutes(app);
-ModuleRoutes(app);
-CourseRoutes(app);
+
 Lab5(app);
 Hello(app);
 app.listen(process.env.PORT || 4000);
